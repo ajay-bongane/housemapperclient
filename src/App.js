@@ -7,7 +7,7 @@ import EnterWeight from "./components/enterweight/enterweight";
 import MyWeights from "./components/myweights/myweights";
 import Search from "./components/search/search";
 import AddEmployee from "./components/addemployee/addemployee";
-//test
+
 
 function App() {
   return (
